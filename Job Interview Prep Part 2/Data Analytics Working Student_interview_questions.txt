@@ -1,0 +1,31 @@
+```markdown
+# Interview Questions for Data Analytics Working Student at Beat81
+
+## Culture Fit Questions
+1. **Can you describe a time when you participated in a team event or challenge? How did it impact your team dynamics and personal growth?**
+   - This question assesses the candidate's experience with team culture and their ability to engage in community activities, reflecting Beat81's emphasis on team rituals and community challenges.
+
+2. **How do you prioritize your personal commitments with work commitments, especially in a flexible working environment?**
+   - This question evaluates the candidate's ability to manage time effectively, which is crucial given Beat81's offer of flexible working hours.
+
+3. **What attracts you to work in a dynamic and fast-paced start-up environment like Beat81?**
+   - This question helps determine the candidate's motivation and readiness to thrive in a start-up culture, which is essential for Beat81's rapidly growing environment.
+
+4. **How do you stay motivated and maintain productivity when working remotely?**
+   - This question assesses the candidate's ability to work independently and remain productive, aligning with Beat81's hybrid work model.
+
+## Position Fit Questions
+5. **Can you give an example of how you used data analytics to solve a problem or improve a process?**
+   - This question evaluates the candidate's practical experience in data analytics, which is critical for supporting Beat81’s daily operations with analytical insights.
+
+6. **Describe your experience with SQL and Python in data analysis projects.**
+   - This question assesses the candidate's technical skills in SQL and Python, which are essential for the role.
+
+7. **How do you approach creating and maintaining dashboards for different stakeholders?**
+   - This question explores the candidate's ability to communicate data insights effectively through dashboards, a key responsibility in the role.
+
+8. **What experience do you have with data visualization tools like Tableau or Lookerstudio, and how have you used them to convey insights?**
+   - This question assesses the candidate's proficiency in data visualization, which is important for presenting data insights to various teams at Beat81.
+```
+
+This list of questions is designed to assess both culture fit and position fit for the role of Data Analytics Working Student at Beat81, ensuring that candidates align with the company’s dynamic environment and technical requirements.
