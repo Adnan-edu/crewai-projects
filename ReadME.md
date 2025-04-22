@@ -65,6 +65,7 @@ Before diving into the specific projects, here are some common setup requirement
     - [Usage (Part 4)](#usage-part-4)
     - [Output Examples (Part 4)](#output-examples-part-4)
     - [Technologies Used (Part 4)](#technologies-used-part-4)
+5.  [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -785,3 +786,11 @@ The notebook execution produces several key outputs:
 - **Pandas:** For data manipulation and saving the output CSV.
 - **Jupyter Notebook:** For interactive development and execution.
 - **python-dotenv:** For managing environment variables (API keys).
+
+
+<a id="acknowledgments"></a>
+## ![Credits Badge](https://img.shields.io/badge/Credits-DiogoResende-blue?style=flat-square)
+
+The content is based on Diogo's comprehensive Build AI Agents with CrewAI course and reflects his expertise in making complex CrewAI concepts accessible through practical, hands-on examples.
+
+Visit [Diogo's profile](https://zerotomastery.io/courses/learn-crewai-agents/) for more resources.
